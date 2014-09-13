@@ -1,0 +1,43 @@
+{
+      "_index" : "onelogin-2014.05.22",
+      "_type" : "LoggedIntoApp",
+      "_id" : "Nf4v5-gFR2-JKbDpZpyUKQ",
+      "_score" : null, "_source" : {
+
+    "kind":  "LoggedIntoApp",
+
+    "id":  {
+
+               "time":  "2014-05-22T16:23:50.0000000-07:00",
+
+               "applicationName":  "LoggedIntoApp"
+
+           },
+
+    "events":  {
+
+                   "actingUserName":  "Homajeet Cheema",
+
+                   "actingUserEmail":  "hcheema@netflix.com",
+
+                   "app":  "Asgard SAML Prod",
+
+                   "assumingUser":  "",
+
+                   "effectedUser":  "Homajeet Cheema (hcheema@netflix.com)",
+
+                   "description":  "Homajeet Cheema signed into Asgard SAML Prod",
+
+                   "eventID":  "8",
+
+                   "eventType":  "LoggedIntoApp",
+
+                   "ipAddress":  "69.53.237.72",
+
+                   "notes":  "Initiated by Asgard SAML Prod via SAML"
+
+               }
+
+},
+      "sort" : [ 1400801030000 ]
+    }

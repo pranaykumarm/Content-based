@@ -1,0 +1,1 @@
+{"user.webuser":"Peter","time":"2014-08-01T00:00:49Z","srctype":"WebGateway","device.internalIP":"10.10.1.126","device.externalIP":"195.205.251.229","device.externalIP.scope":"external","bytesOut":"840","bytesIn":"3600","referrerString":"http://website80-1-79"}

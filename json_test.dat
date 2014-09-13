@@ -1,0 +1,262 @@
+{
+  "took" : 1173,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 155,
+    "successful" : 155,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 174631,
+    "max_score" : null,
+    "hits" : [ {
+      "_index" : "onelogin-2014.05.22",
+      "_type" : "LoggedIntoApp",
+      "_id" : "Nf4v5-gFR2-JKbDpZpyUKQ",
+      "_score" : null, "_source" : {
+
+    "kind":  "LoggedIntoApp",
+
+    "id":  {
+
+               "time":  "2014-05-22T16:23:50.0000000-07:00",
+
+               "applicationName":  "LoggedIntoApp"
+
+           },
+
+    "events":  {
+
+                   "actingUserName":  "Homajeet Cheema",
+
+                   "actingUserEmail":  "hcheema@netflix.com",
+
+                   "app":  "Asgard SAML Prod",
+
+                   "assumingUser":  "",
+
+                   "effectedUser":  "Homajeet Cheema (hcheema@netflix.com)",
+
+                   "description":  "Homajeet Cheema signed into Asgard SAML Prod",
+
+                   "eventID":  "8",
+
+                   "eventType":  "LoggedIntoApp",
+
+                   "ipAddress":  "69.53.237.72",
+
+                   "notes":  "Initiated by Asgard SAML Prod via SAML"
+
+               }
+
+},
+      "sort" : [ 1400801030000 ]
+    }, {
+      "_index" : "onelogin-2014.05.22",
+      "_type" : "LoggedIntoApp",
+      "_id" : "ZUfCTafVSBW5wAzrC95mdA",
+      "_score" : null, "_source" : {
+
+    "kind":  "LoggedIntoApp",
+
+    "id":  {
+
+               "time":  "2014-05-22T16:23:50.0000000-07:00",
+
+               "applicationName":  "LoggedIntoApp"
+
+           },
+
+    "events":  {
+
+                   "actingUserName":  "Jessica M. Moore",
+
+                   "actingUserEmail":  "jessmoore@netflix.com",
+
+                   "app":  "Help Desk",
+
+                   "assumingUser":  "",
+
+                   "effectedUser":  "Jessica M. Moore (jessmoore@netflix.com)",
+
+                   "description":  "Jessica M. Moore signed into Help Desk",
+
+                   "eventID":  "8",
+
+                   "eventType":  "LoggedIntoApp",
+
+                   "ipAddress":  "69.53.237.72",
+
+                   "notes":  "Initiated by Help Desk via SAML"
+
+               }
+
+},
+      "sort" : [ 1400801030000 ]
+    }, {
+      "_index" : "onelogin-2014.05.22",
+      "_type" : "LoggedIntoApp",
+      "_id" : "vQgwKj2ySfCTLSjGN0egIQ",
+      "_score" : null, "_source" : {
+
+    "kind":  "LoggedIntoApp",
+
+    "id":  {
+
+               "time":  "2014-05-22T16:23:36.0000000-07:00",
+
+               "applicationName":  "LoggedIntoApp"
+
+           },
+
+    "events":  {
+
+                   "actingUserName":  "Jenny McCabe",
+
+                   "actingUserEmail":  "jdmccabe@netflix.com",
+
+                   "app":  "Box.com",
+
+                   "assumingUser":  "",
+
+                   "effectedUser":  "Jenny McCabe (jdmccabe@netflix.com)",
+
+                   "description":  "Jenny McCabe signed into Box.com",
+
+                   "eventID":  "8",
+
+                   "eventType":  "LoggedIntoApp",
+
+                   "ipAddress":  "69.53.237.72",
+
+                   "notes":  "Initiated by Box.com via SAML"
+
+               }
+
+},
+      "sort" : [ 1400801016000 ]
+    }, {
+      "_index" : "onelogin-2014.05.22",
+      "_type" : "LoggedIntoApp",
+      "_id" : "WsxOrjSLQVGA_Pm8zdK4LQ",
+      "_score" : null, "_source" : {
+
+    "kind":  "LoggedIntoApp",
+
+    "id":  {
+
+               "time":  "2014-05-22T16:23:14.0000000-07:00",
+
+               "applicationName":  "LoggedIntoApp"
+
+           },
+
+    "events":  {
+
+                   "actingUserName":  "Ivan Provalov",
+
+                   "actingUserEmail":  "iprovalov@netflix.com",
+
+                   "app":  "Asgard SAML Prod",
+
+                   "assumingUser":  "",
+
+                   "effectedUser":  "Ivan Provalov (iprovalov@netflix.com)",
+
+                   "description":  "Ivan Provalov signed into Asgard SAML Prod",
+
+                   "eventID":  "8",
+
+                   "eventType":  "LoggedIntoApp",
+
+                   "ipAddress":  "69.53.237.72",
+
+                   "notes":  "Initiated by Asgard SAML Prod via SAML"
+
+               }
+
+},
+      "sort" : [ 1400800994000 ]
+    }, {
+      "_index" : "onelogin-2014.05.22",
+      "_type" : "LoggedIntoApp",
+      "_id" : "8rqHRCZjRO65YkPJw6ak0g",
+      "_score" : null, "_source" : {
+
+    "kind":  "LoggedIntoApp",
+
+    "id":  {
+
+               "time":  "2014-05-22T16:23:06.0000000-07:00",
+
+               "applicationName":  "LoggedIntoApp"
+
+           },
+
+    "events":  {
+
+                   "actingUserName":  "Kelly De La Rosa",
+
+                   "actingUserEmail":  "kdelarosa@netflix.com",
+
+                   "app":  "Workday",
+
+                   "assumingUser":  "",
+
+                   "effectedUser":  "Kelly De La Rosa (kdelarosa@netflix.com)",
+
+                   "description":  "Kelly De La Rosa signed into Workday",
+
+                   "eventID":  "8",
+
+                   "eventType":  "LoggedIntoApp",
+
+                   "ipAddress":  "69.53.237.72",
+
+                   "notes":  "Initiated by OneLogin via SAML"
+
+               }
+
+},
+      "sort" : [ 1400800986000 ]
+    }, {
+      "_index" : "onelogin-2014.05.22",
+      "_type" : "LoggedIntoApp",
+      "_id" : "YXPbQh2fSliQTb4uVMFLjQ",
+      "_score" : null, "_source" : {
+
+    "kind":  "LoggedIntoApp",
+
+    "id":  {
+
+               "time":  "2014-05-22T16:23:00.0000000-07:00",
+
+               "applicationName":  "LoggedIntoApp"
+
+           },
+
+    "events":  {
+
+                   "actingUserName":  "Chris Hiller",
+
+                   "actingUserEmail":  "chiller@netflix.com",
+
+                   "app":  "Box.com",
+
+                   "assumingUser":  "",
+
+                   "effectedUser":  "Chris Hiller (chiller@netflix.com)",
+
+                   "description":  "Chris Hiller signed into Box.com",
+
+                   "eventID":  "8",
+
+                   "eventType":  "LoggedIntoApp",
+
+                   "ipAddress":  "69.53.237.72",
+
+                   "notes":  "Initiated by Box.com via SAML"
+
+               }
+
+}
